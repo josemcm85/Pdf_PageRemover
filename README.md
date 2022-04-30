@@ -1,20 +1,20 @@
 # Pdf_PageRemover
  Remove a specific page from all the pdf documents stored in a folder
  
- # Install PyPDF2
+## Install PyPDF2
  
 ```python
  pip install PyPDF2
 ```
 
-# Path of pdf files
+## Path of pdf files
 
 ```python
 #Line 5 of script.py
 dir = 'C:\\Code\\test' #Path were the pdf files are
 ```
 
-# Identify page to remove
+## Identify page to remove
 
 ```python
 #Line 6 of script.py
