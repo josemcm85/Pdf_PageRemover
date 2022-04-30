@@ -7,14 +7,14 @@
  pip install PyPDF2
 ```
 
-#Path of pdf files
+# Path of pdf files
 
 ```python
 #Line 5 of script.py
 dir = 'C:\\Code\\test' #Path were the pdf files are
 ```
 
-#Identify page to remove
+# Identify page to remove
 
 ```python
 #Line 6 of script.py
